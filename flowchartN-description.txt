@@ -1,0 +1,4 @@
+Deciding whether to wash clothes and which programme to use
+The flowchart starts by making a decision on whether or not it it necessary to wash clothes on that day. 
+Once that decision has been made, the next step is to determine what colour the clothes are, since the colour decides which cycle the washing machine needs to run. Different colours require different cycles to avoid damage or discoloring.
+From that decision, the correct washing cycle is determined, and the washing is carried out.
